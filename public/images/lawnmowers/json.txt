@@ -1,0 +1,72 @@
+[
+  {
+    "title": "A Classic Push Lawnmower",
+    "funFact": ["The first lawnmower was invented in 1830 by Edwin Budding.", "El primer cortacésped fue inventado en 1830 por Edwin Budding.", "La première tondeuse à gazon a été inventée en 1830 par Edwin Budding."],
+    "description": "A classic push lawnmower on grass,",
+    "question": "",
+    "lens": "Sigma 24mm f/8"
+  },
+  {
+    "title": "Vintage Riding Lawn Mower",
+    "funFact": ["The first riding lawnmower was introduced in the 1950s.", "El primer cortacésped tractor se introdujo en la década de 1950.", "La première tondeuse autoportée a été introduite dans les années 1950."],
+    "description": "A vintage riding lawn mower in a garden,",
+    "question": "",
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Modern Electric Lawnmower",
+    "funFact": ["Electric lawnmowers are quieter and more eco-friendly.", "Los cortacéspedes eléctricos son más silenciosos y ecológicos.", "Les tondeuses électriques sont plus silencieuses et respectueuses de l'environnement."],
+    "description": "A modern electric lawnmower on a driveway,",
+    "question": "",
+    "lens": "Sigma 85mm f/1.4"
+  },
+  {
+    "title": "Lawnmower in a Shed",
+    "funFact": ["Sheds often store gardening tools and equipment.", "Los cobertizos a menudo almacenan herramientas y equipos de jardinería.", "Les cabanons servent souvent à ranger les outils et équipements de jardinage."],
+    "description": "A lawnmower inside a wooden shed,",
+    "question": "",
+    "lens": "Sigma 24mm f/8"
+  },
+  {
+    "title": "Lawnmower Blades",
+    "funFact": ["Lawnmower blades should be sharpened regularly for best performance.", "Las cuchillas del cortacésped deben afilarse regularmente para un mejor rendimiento.", "Les lames de la tondeuse à gazon doivent être aiguisées régulièrement pour de meilleures performances."],
+    "description": "Close-up of lawnmower blades,",
+    "question": "",
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Lawnmower with Grass Catcher",
+    "funFact": ["Grass catchers help collect the clippings for easy disposal.", "Los recolectores de césped ayudan a recoger los recortes para una fácil eliminación.", "Les collecteurs d'herbe aident à ramasser les déchets de tonte pour les jeter plus facilement."],
+    "description": "A lawnmower with a grass catcher on a lawn,",
+    "question": "",
+    "lens": "Sigma 85mm f/8"
+  },
+  {
+    "title": "Robot Lawn Mower",
+    "funFact": ["Robot lawnmowers can mow the lawn automatically.", "Los cortacéspedes robot pueden cortar el césped de forma automática.", "Les tondeuses robots peuvent tondre la pelouse automatiquement."],
+    "description": "A robot lawn mower in a backyard,",
+    "question": "",
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Old Gasoline Lawnmower",
+    "funFact": ["Gasoline lawnmowers have been popular for many years.", "Los cortacéspedes de gasolina han sido populares durante muchos años.", "Les tondeuses à essence sont populaires depuis de nombreuses années."],
+    "description": "An old gasoline lawnmower on a driveway,",
+    "question": "",
+    "lens": "Sigma 85mm f/8"
+  },
+  {
+    "title": "Lawnmower on a Hill",
+    "funFact": ["Mowing on hills requires extra caution for safety.", "Cortar el césped en colinas requiere precaución adicional para la seguridad.", "Tondre sur des collines nécessite une vigilance supplémentaire pour la sécurité."],
+    "description": "A lawnmower on a grassy hill,",
+    "question": "",
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Lawnmower at Sunrise",
+    "funFact": ["Early morning is a popular time to mow the lawn.", "La mañana temprano es un momento popular para cortar el césped.", "Le matin de bonne heure est un moment populaire pour tondre la pelouse."],
+    "description": "A lawnmower on the grass during sunrise,",
+    "question": "",
+    "lens": "Sigma 24mm f/8"
+  },
+]

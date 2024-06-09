@@ -1,0 +1,80 @@
+[
+    {
+      "title": "Pigeon in the Park",
+      "funFact": ["Pigeons are known for their remarkable navigational abilities and can find their way home from long distances.", "Las palomas son conocidas por sus notables habilidades de navegación y pueden encontrar el camino a casa desde largas distancias.", "Les pigeons sont connus pour leurs capacités de navigation remarquables et peuvent retrouver leur chemin même sur de longues distances."],
+      "description": "Single pigeon standing on green grass, trees in the background,",
+      "image": "/pigeons/01.png"
+    },
+    {
+      "title": "Pigeon on a Statue",
+      "funFact": ["Pigeons have been domesticated for thousands of years.", "Las palomas han sido domesticadas durante miles de años.", "Les pigeons sont domestiqués depuis des milliers d'années."],
+      "description": "Single pigeon perched on a historic statue, buildings in the background,",
+      "image": "/pigeons/02.png"
+    },
+    {
+      "title": "Pigeon Nest",
+      "funFact": ["Pigeons usually lay two eggs per clutch.", "Las palomas suelen poner dos huevos por puesta.", "Les pigeons pondent généralement deux œufs par couvée."],
+      "description": "Pigeon nest with two eggs in a tree, leaves and branches in the background,",
+      "image": "/pigeons/03.png"
+    },
+    {
+      "title": "Pigeon Drinking Water",
+      "funFact": ["Pigeons drink water through suction, unlike most birds that sip and tilt.", "Las palomas beben agua por succión, a diferencia de la mayoría de las aves que sorben e inclinan.", "Les pigeons boivent de l'eau par succion, contrairement à la plupart des oiseaux qui sirotent et inclinent."],
+      "description": "Single pigeon drinking water from a puddle, pavement and grass in the background,",
+      "image": "/pigeons/04.png"
+    },
+    {
+      "title": "Pigeons Bathing",
+      "funFact": ["Pigeons enjoy taking baths to keep their feathers clean.", "A las palomas les gusta bañarse para mantener limpias sus plumas.", "Les pigeons aiment se baigner pour garder leurs plumes propres."],
+      "description": "Group of pigeons bathing in a shallow fountain, water and concrete in the background,",
+      "image": "/pigeons/05.png"
+    },
+    {
+      "title": "Pigeon Pecking Seeds",
+      "funFact": ["Pigeons feed on seeds, fruits, and occasionally small insects.", "Las palomas se alimentan de semillas, frutas y, ocasionalmente, pequeños insectos.", "Les pigeons se nourrissent de graines, de fruits et, parfois, de petits insectes."],
+      "description": "Single pigeon pecking seeds on the ground, grass and small pebbles in the background,",
+      "image": "/pigeons/06.png"
+    },
+    {
+      "title": "Homemade Pigeon Coop",
+      "funFact": ["Many people keep pigeons in homemade coops as pets or for racing.", "Muchas personas mantienen palomas en jaulas caseras como mascotas o para carreras.", "Beaucoup de gens gardent des pigeons dans des clapiers faits maison comme animaux de compagnie ou pour les courses."],
+      "description": "Wooden pigeon coop with a couple of pigeons perched inside, garden in the background,",
+      "image": "/pigeons/07.png"
+    },
+    {
+      "title": "Pigeon and Fountain",
+      "funFact": ["Pigeons are often found near water sources like fountains and ponds.", "Las palomas se encuentran a menudo cerca de fuentes de agua como fuentes y estanques.", "Les pigeons se trouvent souvent près de sources d'eau comme les fontaines et les étangs."],
+      "description": "Single pigeon standing near a water fountain, water flowing in the background,",
+      "image": "/pigeons/08.png"
+    },
+    {
+      "title": "Pigeons on Rooftop",
+      "funFact": ["Pigeons often rest and nest on rooftops in urban areas.", "Las palomas a menudo descansan y anidan en los tejados en las áreas urbanas.", "Les pigeons se reposent et nichent souvent sur les toits dans les zones urbaines."],
+      "description": "Several pigeons sitting on a rooftop, sky in the background,",
+      "image": "/pigeons/09.png"
+    },
+    {
+      "title": "Pigeon with Chicks",
+      "funFact": ["Pigeon chicks are called squabs.", "Los polluelos de las palomas se llaman pichones.", "Les poussins de pigeons sont appelés pigeonneaux."],
+      "description": "Pigeon with two chicks in a nest, nest and tree in the background,",
+      "image": "/pigeons/10.png"
+    },
+    {
+      "title": "Pigeon Feathers",
+      "funFact": ["Pigeons have iridescent feathers on their necks which reflect light.", "Las palomas tienen plumas iridiscentes en sus cuellos que reflejan la luz.", "Les pigeons ont des plumes iridescentes sur leurs cous qui reflètent la lumière."],
+      "description": "Close-up of pigeon feathers, iridescent colors in the background,",
+      "image": "/pigeons/11.png"
+    },
+    {
+      "title": "Pigeon on a Bench",
+      "funFact": ["Pigeons often find comfortable resting spots on benches.", "Las palomas a menudo encuentran lugares cómodos para descansar en los bancos.", "Les pigeons trouvent souvent des endroits confortables pour se reposer sur les bancs."],
+      "description": "Single pigeon sitting on a park bench, wooden bench and green grass in the background,",
+      "image": "/pigeons/12.png"
+    },
+    {
+      "title": "Pigeons in the City",
+      "funFact": ["Pigeons adapt well to city environments and are commonly seen in urban areas.", "Las palomas se adaptan bien a los entornos urbanos y se ven comúnmente en las áreas urbanas.", "Les pigeons s'adaptent bien aux environnements urbains et sont couramment vus dans les zones urbaines."],
+      "description": "Group of pigeons walking on a city sidewalk, buildings and street in the background,",
+      "image": "/pigeons/13.png"
+    }
+  ]

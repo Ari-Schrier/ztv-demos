@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Ladybug on a Leaf",
+    "funFact": ["Ladybugs can eat up to 5,000 insects in their lifetime", "Las mariquitas pueden comer hasta 5,000 insectos en su vida", "Les coccinelles peuvent manger jusqu'à 5,000 insectes dans leur vie"],
+    "description": "Ladybug on a green leaf,",
+    "question": {},
+    "lens": "Sigma 85mm f/1.4"
+  },
+  {
+    "title": "Butterfly on a Flower",
+    "funFact": ["Butterflies taste with their feet", "Las mariposas prueban con sus pies", "Les papillons goûtent avec leurs pieds"],
+    "description": "Butterfly on a colorful flower,",
+    "question": {},
+    "lens": "Sigma 85mm f/1.4"
+  },
+  {
+    "title": "Bumblebee on a Blossom",
+    "funFact": ["Bumblebees can flap their wings 200 times per second", "Los abejorros pueden batir sus alas 200 veces por segundo", "Les bourdons peuvent battre des ailes 200 fois par seconde"],
+    "description": "Bumblebee on a cherry blossom,",
+    "question": {},
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Praying Mantis",
+    "funFact": ["Praying mantises have excellent eyesight, with five eyes", "Las mantis religiosas tienen una excelente vista, con cinco ojos", "Les mantes religieuses ont une excellente vue, avec cinq yeux"],
+    "description": "Praying mantis on a branch,",
+    "question": {},
+    "lens": "Sigma 85mm f/1.4"
+  },
+  {
+    "title": "Firefly in the Night",
+    "funFact": ["Fireflies produce light through a chemical reaction", "Las luciérnagas producen luz a través de una reacción química", "Les lucioles produisent de la lumière à travers une réaction chimique"],
+    "description": "Firefly glowing in the dark,",
+    "question": {},
+    "lens": "Sigma 24mm f/8"
+  },
+  {
+    "title": "Grasshopper in the Grass",
+    "funFact": ["Grasshoppers can jump up to 20 times their own body length", "Los saltamontes pueden saltar hasta 20 veces su propia longitud corporal", "Les sauterelles peuvent sauter jusqu'à 20 fois leur propre longueur de corps"],
+    "description": "Grasshopper in tall green grass,",
+    "question": {},
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Dragonfly by the Pond",
+    "funFact": ["Dragonflies have been on Earth for over 300 million years", "Las libélulas han estado en la Tierra por más de 300 millones de años", "Les libellules sont sur Terre depuis plus de 300 millions d'années"],
+    "description": "Dragonfly near a pond,",
+    "question": {},
+    "lens": "Sigma 85mm f/8"
+  },
+  {
+    "title": "Ant Hill",
+    "funFact": ["Ants can lift objects up to 50 times their own body weight", "Las hormigas pueden levantar objetos hasta 50 veces su propio peso corporal", "Les fourmis peuvent soulever des objets jusqu'à 50 fois leur propre poids corporel"],
+    "description": "Ants around an ant hill,",
+    "question": {},
+    "lens": "Sigma 24mm f/8"
+  },
+  {
+    "title": "Moth on a Window",
+    "funFact": ["Moths are attracted to light and some researchers believe this is because they navigate by moonlight", "Las polillas son atraídas por la luz y algunos investigadores creen que esto se debe a que navegan por la luz de la luna", "Les mites sont attirées par la lumière et certains chercheurs pensent que c'est parce qu'elles naviguent à la lumière de la lune"],
+    "description": "Moth resting on a window,",
+    "question": {},
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Caterpillar on a Twig",
+    "funFact": ["Caterpillars have 12 eyes but can only see light and dark", "Las orugas tienen 12 ojos pero solo pueden ver la luz y la oscuridad", "Les chenilles ont 12 yeux mais ne peuvent voir que la lumière et l'obscurité"],
+    "description": "Caterpillar crawling on a twig,",
+    "question": {},
+    "lens": "Sigma 85mm f/8"
+  },
+  {
+    "title": "Spider on a Web",
+    "funFact": ["Spiders spin silk which is stronger than steel for the same thickness", "Las arañas tejen seda que es más fuerte que el acero para el mismo grosor", "Les araignées tissent de la soie qui est plus forte que l'acier pour la même épaisseur"],
+    "description": "Spider in its web,",
+    "question": {},
+    "lens": "Sigma 85mm f/1.4"
+  },
+  {
+    "title": "Cricket in the Garden",
+    "funFact": ["Crickets' ears are located on their front legs", "Los oídos de los grillos están ubicados en sus patas delanteras", "Les oreilles des grillons sont situées sur leurs pattes avant"],
+    "description": "Cricket perched among garden plants,",
+    "question": {},
+    "lens": "Nikon 55mm f/2.8 AF"
+  },
+  {
+    "title": "Beetle in the Forest",
+    "funFact": ["There are over 350,000 known species of beetles", "Existen más de 350,000 especies conocidas de escarabajos", "Il existe plus de 350,000 espèces connues de coléoptères"],
+    "description": "Beetle walking on forest floor,",
+    "question": {},
+    "lens": "Sigma 85mm f/8"
+  },
